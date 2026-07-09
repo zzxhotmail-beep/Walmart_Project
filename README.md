@@ -1,4 +1,4 @@
-![Pipeline](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/azure_project@main/logo2.png)
+![Pipeline](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/Walmart_Project@main/logo.jpg)
 # 🛍️ Walmart End-to-End Data Engineering Project
 
 ## 📌 Project Overview
