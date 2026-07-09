@@ -48,7 +48,7 @@ Apache Airflow
 
 ## 📷 Architecture Preview
 
-![architecture](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/azure_project@main/Structure.png)
+![architecture](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/Walmart_project@main/structure.jpg)
 
 # 🛠️ Technology Stack
 
